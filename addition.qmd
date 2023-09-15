@@ -7,3 +7,10 @@ To add numbers in R use `+`
 ```{r}
 1 + 1
 ```
+
+
+```{r}
+
+4 + 4
+
+```
